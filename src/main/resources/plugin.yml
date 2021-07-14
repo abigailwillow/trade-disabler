@@ -1,0 +1,7 @@
+main: com.abbydiode.nomending.App
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+author: https://github.com/abbydiode
+website: ${project.url}
+api-version: 1.17
