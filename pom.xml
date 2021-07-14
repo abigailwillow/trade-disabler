@@ -7,7 +7,7 @@
   <version>1.0.0</version>
   <packaging>jar</packaging>
   <name>Abbys-NoMending</name>
-  <url>https://abbydiode.com</url>
+  <url>https://www.spigotmc.org/resources/disable-mending-trades.94265/</url>
   <description>Removes mending trades from villagers</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
