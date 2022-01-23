@@ -1,10 +1,8 @@
 # For a list of block IDs see https://minecraft.fandom.com/wiki/Java_Edition_data_values#Blocks
 # For a list of item IDs see https://minecraft.fandom.com/wiki/Java_Edition_data_values#Items
-# For a list of enchantment IDs see https://minecraft.fandom.com/wiki/Java_Edition_data_values#Enchantments
-
-# To disable a trade for a regular item, add it in the list without arguments (ex. - diamond)
-# To disable a trade for a specific enchanted book, add it in the list with the enchantment specified (ex. - enchanted_book: mending)
-
-disabledTrades:
+disabledMaterials:
   # - diamond
-  # - enchanted_book: mending
+
+# For a list of enchantment IDs see https://minecraft.fandom.com/wiki/Java_Edition_data_values#Enchantments
+disabledEnchantments:
+  # - mending
