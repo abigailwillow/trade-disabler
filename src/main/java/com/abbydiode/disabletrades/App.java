@@ -1,8 +1,8 @@
-package com.abbydiode.nomending;
+package com.abbydiode.disabletrades;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.abbydiode.nomending.listeners.PlayerInteractEntityListener;
+import com.abbydiode.disabletrades.listeners.PlayerInteractEntityListener;
 
 public class App extends JavaPlugin {
 	@Override
