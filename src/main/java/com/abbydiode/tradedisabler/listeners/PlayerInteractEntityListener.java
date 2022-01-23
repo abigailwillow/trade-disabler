@@ -1,4 +1,4 @@
-package com.abbydiode.disabletrades.listeners;
+package com.abbydiode.tradedisabler.listeners;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
@@ -9,7 +9,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerInteractEntityEvent;
 
-import com.abbydiode.disabletrades.App;
+import com.abbydiode.tradedisabler.App;
 
 import java.util.List;
 
