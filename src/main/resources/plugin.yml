@@ -1,4 +1,4 @@
-main: com.abbydiode.nomending.App
+main: com.abbydiode.tradedisabler.App
 name: ${project.name}
 version: ${project.version}
 description: ${project.description}
