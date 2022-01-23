@@ -1,4 +1,4 @@
-# Trade disabler
+# Trade Disabler
 
 ## What's this?
 
