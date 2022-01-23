@@ -6,7 +6,7 @@
   <artifactId>disable-trades</artifactId>
   <version>1.1.0</version>
   <packaging>jar</packaging>
-  <name>Trade Disabler</name>
+  <name>TradeDisabler</name>
   <url>https://www.spigotmc.org/resources/94265/</url>
   <description>Disables certain trades from villagers</description>
   <properties>
